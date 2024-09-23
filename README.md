@@ -1,6 +1,8 @@
-# Moving Beyond Memorisation
+# Moving Beyond Memorisation: Resources for generalisable protein complex prediction
 
-Under construction
+This repository  contains notebooks used for the the "Moving Beyond Memorization" workshop on September 24, 2024.
+
+More information about the workshop and registration: https://www.plinder.sh/blog/training
 
 # Notebooks
 
