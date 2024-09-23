@@ -6,5 +6,5 @@ More information about the workshop and registration: https://www.plinder.sh/blo
 
 # Notebooks
 
-* 2_Scoring_with_OpenStructure.ipynb
+* 2_Scoring_with_OpenStructure.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xrobin/moving_beyond_memorisation/blob/main/2_Scoring_with_OpenStructure.ipynb)
 
