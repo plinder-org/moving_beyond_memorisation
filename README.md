@@ -34,10 +34,10 @@ Online
 | 16:35 - 16:40 | 5        | Intro to parallel sessions                                  |
 | 16:40 - 17:00 | 20       | Break                                                       |
 | 17:00 - 18:30 | 90       | Parallel sessions on PINDER and PLINDER                    |
-|               |          | [PINDER](slides/pinder.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/plinder-org/moving_beyond_memorisation/blob/main/notebooks/pinder.ipynb) |
-|               |          | [PLINDER](slides/plinder.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/plinder-org/moving_beyond_memorisation/blob/main/notebooks/plinder.ipynb) |
+|               |          | PINDER [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/plinder-org/moving_beyond_memorisation/blob/main/notebooks/pinder.ipynb) |
+|               |          | PLINDER [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/plinder-org/moving_beyond_memorisation/blob/main/notebooks/plinder.ipynb) |
 | 18:30 - 19:00 | 30       | Break                                |
-| 19:00 - 20:00 | 60       | [Huggingface models and leaderboard submission](slides/huggingface.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/plinder-org/moving_beyond_memorisation/blob/main/notebooks/huggingface.ipynb) |
+| 19:00 - 20:00 | 60       | [Huggingface models and leaderboard submission](slides/huggingface.pdf) |
 | 20:00 - 20:20 | 20       | Feedback and next steps |
 | 20:20 - 20:30 | 10       | Closing remarks |
 
