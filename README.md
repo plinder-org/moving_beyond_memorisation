@@ -6,7 +6,7 @@ This repository contains notebooks used for the the [Moving Beyond Memorization]
 
 Online
 
-[Join the P(L)INDER user group Discord Server!](https://discord.gg/RrrYBC7d)
+[Join the P(L)INDER user group Discord Server!](https://discord.gg/KgUdMn7TuS)
 
 ### ⏰ When
 
